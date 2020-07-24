@@ -1,5 +1,5 @@
 {
-  "name": "svg-tool",
+  "name": "svg-scale-cli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "author": "awesselb",
   "license": "ISC",
   "bin": {
-    "svg-tool": "./index.js"
+    "svg-scale": "./index.js"
   },
   "dependencies": {
     "svgpath": "^2.3.0",
