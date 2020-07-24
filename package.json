@@ -1,0 +1,19 @@
+{
+  "name": "svg-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "awesselb",
+  "license": "ISC",
+  "bin": {
+    "svg-tool": "./index.js"
+  },
+  "dependencies": {
+    "svgpath": "^2.3.0",
+    "xml-artist": "^2.0.11",
+    "yargs": "^15.4.1"
+  }
+}
