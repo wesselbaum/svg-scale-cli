@@ -12,6 +12,8 @@ Scales SVGs by a factor or by desired width
 `width`: Desired width of the SVG. Overwrites `scale`
 
 `precision`: Precision of the path parameters. 2 = 1.23456789 >>> 1.23
+
+`output`: Output file. If not specified the file content will be output in the console.
  
 
 ## Limitations
